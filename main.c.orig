@@ -4,7 +4,7 @@ Initial Function()
 {
   //Sample Code
 }
-
+<<<<<<< HEAD
 Security Patch1()
 {
 	//Security Patch1 code
@@ -12,14 +12,15 @@ Security Patch1()
 feature1()
 {
   //Sample Code for Feature 1
-}
+=======
 Security Patch2()
 {
 	//Security Patch2 Code
 }
-feature2()
+feaature2()
 {
   //Sample Code for Feature 2
+>>>>>>> feature2
 }
 
 
